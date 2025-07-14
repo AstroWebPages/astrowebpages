@@ -1,1 +1,0 @@
-https://mipixel.duckdns.org/
